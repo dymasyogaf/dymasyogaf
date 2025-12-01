@@ -45,31 +45,18 @@ interests: [Web Development, Open Source, Technology]
 <div align="center">
 
   <!-- Stats Utama -->
-  <a href="https://github.com/dymasyogaf">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=dymasyogaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-      alt="GitHub Stats dymasyogaf"
-      height="160"
-    />
-  </a>
-
-  <!-- Streak -->
-  <a href="https://github.com/dymasyogaf">
-    <img 
-      src="https://streak-stats.demolab.com?user=dymasyogaf&theme=tokyonight&hide_border=true" 
-      alt="GitHub Streak dymasyogaf"
-      height="160"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dymasyogaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats dymasyogaf"
+    height="160"
+  />
 
   <!-- Top Languages -->
-  <a href="https://github.com/dymasyogaf">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dymasyogaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-      alt="Top Languages dymasyogaf"
-      height="160"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dymasyogaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages dymasyogaf"
+    height="160"
+  />
 
 </div>
 
