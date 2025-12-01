@@ -43,10 +43,16 @@ interests: [Web Development, Open Source, Technology]
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dymasyogaf&show_icons=true&theme=minimal&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dymasyogaf&layout=compact&theme=minimal&hide_border=true"/>
-
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=dymasyogaf&show_icons=true&theme=minimal&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+    alt="Dymas GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dymasyogaf&layout=compact&theme=minimal&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </div>
 
 ---
