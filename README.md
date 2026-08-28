@@ -2,7 +2,7 @@
 
 # Hi there, I'm Dymas Yoga Febratama 👋
 
-*Full Stack Developer from Semarang, Indonesia*
+*Full Stack Developer from Palembang, Indonesia*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;WordPress+%7C+Astro+%7C+Vue.js+%7C+Next.js;Building+Scalable+Digital+Solutions;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
