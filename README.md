@@ -2,7 +2,7 @@
 
 # Hi there, I'm Dymas Yoga Febratama 👋
 
-*Full Stack Developer from Palembang, Indonesia*
+*Full Stack Developer from Palembang | Based in Semarang, Indonesia*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;WordPress+%7C+Astro+%7C+Vue.js+%7C+Next.js;Building+Scalable+Digital+Solutions;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -14,7 +14,8 @@
 
 ```yaml
 name: Dymas Yoga Febratama
-location: Palembang, Indonesia
+hometown: Palembang, Indonesia
+location: Semarang, Indonesia
 role: Full Stack Developer
 company: PT MediaPro Indonesia & Yayasan Alfatihah.com
 education: Bachelor of Information Systems (Open University)
@@ -72,16 +73,6 @@ interests: [Web Development, SEO, Open Source, Technology]
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dymasyogaf&theme=tokyonight" alt="GitHub Stats" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dymasyogaf&theme=tokyonight&utcOffset=7" alt="Productive Time" height="160" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dymasyogaf&theme=tokyonight" alt="Top Languages by Repo" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dymasyogaf&theme=tokyonight" alt="Top Languages by Commit" height="160" />
-
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dymasyogaf&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak dymasyogaf"
-    height="160"
-  />
-
 </div>
 
 ---
@@ -98,7 +89,7 @@ interests: [Web Development, SEO, Open Source, Technology]
 ### 🌱 Currently
 
 - 🔭 Working as **Full Stack Developer** at PT MediaPro Indonesia & Yayasan Alfatihah.com
-- 🎓 Pursuing **Bachelor of Information Systems** at Open University
+- 🎓 Pursuing **Bachelor of Information Systems** at Open University (5th Semester)
 - 🌱 Building web apps with **Next.js, Astro, Vue.js** & WordPress ecosystem
 - 👯 Open to collaborate on open source projects
 - 💬 Ask me about **WordPress, SEO, Full Stack Development**
