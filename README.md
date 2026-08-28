@@ -14,7 +14,7 @@
 
 ```yaml
 name: Dymas Yoga Febratama
-location: Semarang, Indonesia
+location: Palembang, Indonesia
 role: Full Stack Developer
 company: PT MediaPro Indonesia & Yayasan Alfatihah.com
 education: Bachelor of Information Systems (Open University)
